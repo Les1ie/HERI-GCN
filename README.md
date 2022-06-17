@@ -141,10 +141,10 @@ The settings of the ==highlighting== parameters are analyzed in detail in the fo
 
 ```bib
 @inproceedings{HERIGCN_2022,
-title = {},
-author = {}
-year = {}
-pages = {}
+  author          = {Wu, Zhen and Zhou, Jingya and Liu, Ling and Li, Chaozhuo and Gu, Fei},
+  booktitle       = {2022 IEEE 38th International Conference on Data Engineering (ICDE)},
+  title           = {Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN},
+  year            = {2022}
 }
 ```
 
